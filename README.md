@@ -10,7 +10,7 @@ PRINTF | [Algorithms & AI] [Rigor] | <a href="https://github.com/JaeSeoKim/badge
 GET_NEXT_LINE | [Unix] [Algorithms & AI] [Rigor] | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clihdd9iu003508mrxaj6mure/project/3081433" alt="pveiga-c's 42 get_next_line Score" /></a>
 BORN2BEROOT | [Network & system administration] [Rigor] | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clihdd9iu003508mrxaj6mure/project/3082446" alt="pveiga-c's 42 Born2beroot Score" /></a>
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black),(cmake,bash,git,githubactions,vim,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,githubactions,vim,vscode)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pveiga-c&theme=monokai&hide_border=true)<br/>
