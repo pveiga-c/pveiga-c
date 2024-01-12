@@ -12,7 +12,7 @@ BORN2BEROOT |
 [SO_LONG](https://github.com/pveiga-c/so_long_42) | **:white_check_mark: 115%**
 [PUSH_SWAP](https://github.com/pveiga-c/push_swap_42) | **:white_check_mark: 100%**
 [PHILOSOPHERS](https://github.com/pveiga-c/philosophers_42) | **:white_check_mark: 100%**
-[MINISHELL](**:white_check_mark: 101%**)
+[MINISHELL](https://github.com/pveiga-c/minishell_42) | **:white_check_mark: 101%**
 
 
 # 💻 Tech Stack:
