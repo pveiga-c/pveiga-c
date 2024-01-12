@@ -1,8 +1,7 @@
 # 💫 About Me:
 Hi there 👋, I am Pedro<br><br>- 🔭 I’m currently a student at 42 Lisbon.<br>- 🌱 I’m currently studying C<br>- 📫  How to reach me: correiapc@hotmail.com<br>
 
-[![pveiga-c's 42 stats](https://badge42.vercel.app/api/v2/clihdd9iu003508mrxaj6mure/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
+[![pveiga-c's 42 stats](https://badge.mediaplus.ma/binary/pveiga-c?UM6P=off)](https://github.com/oakoudad/badge42)
 Project | Skills | Grade | 
 :------:|:------:|:-----:|
 LIBFT | [Imperative programming] [Algorithms & AI] [Rigor] | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clihdd9iu003508mrxaj6mure/project/3061097" alt="pveiga-c's 42 Libft Score" /></a>
