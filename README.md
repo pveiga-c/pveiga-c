@@ -11,6 +11,9 @@ BORN2BEROOT |
 [PIPEX](https://github.com/pveiga-c/pipex_42) | **:white_check_mark: 100%**
 [SO_LONG](https://github.com/pveiga-c/so_long_42) | **:white_check_mark: 115%**
 [PUSH_SWAP](https://github.com/pveiga-c/push_swap_42) | **:white_check_mark: 100%**
+[PHILOSOPHERS](https://github.com/pveiga-c/philosophers_42) | **:white_check_mark: 100%**
+[MINISHELL](**:white_check_mark: 101%**)
+
 
 # 💻 Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,githubactions,vim,vscode)](https://skillicons.dev)
