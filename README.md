@@ -8,6 +8,10 @@ Project | Grade |
 [PRINTF](https://github.com/pveiga-c/ft_printf_42) | **:white_check_mark: 100%**
 [GET_NEXT_LINE](https://github.com/pveiga-c/get_next_line_42) | **:white_check_mark: 125%**
 BORN2BEROOT | 
+[PIPEX](git@vogsphere.42lisboa.com:vogsphere/intra-uuid-b7eabb3c-e5cd-4eac-981d-543da9d82a4f-5260610-pveiga-c) | **:white_check_mark: 100%**
+[SO_LONG](https://github.com/pveiga-c/so_long_42) | **:white_check_mark: 115%**
+[PUSH_SWAP](https://github.com/pveiga-c/push_swap_42) | **:white_check_mark: 100%**
+
 # 💻 Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,githubactions,vim,vscode)](https://skillicons.dev)
 # 📊 GitHub Stats:
