@@ -19,8 +19,8 @@ Exams | Grade |
 [**RANK 02**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%202) | :100:
 [**RANK 03**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%203) | :100:
 [**RANK 04**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%204) | :100:
-[**RANK 05**]
-[**RANK 06**]
+[**RANK 05**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%205) |
+[**RANK 06**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%206/mini_serv) |
 
 # 💻 Tech Stack:
 [![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,git,githubactions,vim,vscode)](https://skillicons.dev)
