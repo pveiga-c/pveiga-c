@@ -13,7 +13,7 @@ BORN2BEROOT | **:white_check_mark: 100%**
 [PUSH_SWAP](https://github.com/pveiga-c/push_swap_42) | **:white_check_mark: 100%**
 [PHILOSOPHERS](https://github.com/pveiga-c/philosophers_42) | **:white_check_mark: 100%**
 [MINISHELL](https://github.com/pveiga-c/minishell_42) | **:white_check_mark: 101%**
-[NETPRATICE](https://github.com/pveiga-c/netPtratice_42) |
+[NETPRATICE](https://github.com/pveiga-c/netPtratice_42) | **:white_check_mark: 100%**
 
 Exams | Grade | 
 :-------:|:-----:|
