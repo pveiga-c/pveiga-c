@@ -14,7 +14,7 @@ BORN2BEROOT | **:white_check_mark: 100%**
 [PHILOSOPHERS](https://github.com/pveiga-c/philosophers_42) | **:white_check_mark: 100%**
 [MINISHELL](https://github.com/pveiga-c/minishell_42) | **:white_check_mark: 101%**
 [NETPRATICE](https://github.com/pveiga-c/netPtratice_42) | **:white_check_mark: 100%**
-[CUB3D](https://github.com/pfviegas/cub3D)
+[CUB3D](https://github.com/pfviegas/cub3D) | **:white_check_mark: 115%**
 
 Exams | Grade | 
 :-------:|:-----:|
