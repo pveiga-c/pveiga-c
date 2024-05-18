@@ -25,7 +25,7 @@ Exams | Grade |
 [**RANK 06**](https://github.com/pveiga-c/Exam_42/tree/main/Rank%206/mini_serv) |
 
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=c,cmake,bash,linux,github,git,githubactions,vim,vscode,eclipse,discord,linkedin,instagram,gmail)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,bash,cmake,bash,linux,github,git,githubactions,vim,vscode,replit,eclipse,discord,linkedin,instagram,gmail)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pveiga-c&theme=monokai&hide_border=true)<br/>
