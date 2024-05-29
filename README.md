@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there 👋, I am Pedro<br><br>- 🔭 I’m currently a student at 42 Lisbon.<br>- 🌱 I’m currently studying C<br>- 📫  How to reach me: correiapc@hotmail.com<br>
 
+![Hello World](https://github.com/pveiga-c/pveiga-c/blob/main/imgs/imagem1.gif)
+
 [![pveiga-c's 42 stats](https://badge.mediaplus.ma/binary/pveiga-c?UM6P=off)](https://github.com/oakoudad/badge42)
 Project | Grade | 
 :------:|:-----:|
