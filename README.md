@@ -118,7 +118,7 @@
 
 - <a href="https://github.com/pveiga-c/100_days_of_code">100 days of code</a> [in progress]
 
-- <a href="https://github.com/pveiga-c/100_days_of_code/tree/main/day_7">Hangman</a> - Gane to guess the word before the hanging man drawing is completed. 
+- <a href="https://github.com/pveiga-c/Hangman/tree/main">Hangman</a> - Gane to guess the word before the hanging man drawing is completed. 
 
 - <a href=""> Password Generator</a>
 
