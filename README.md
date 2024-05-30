@@ -1,8 +1,10 @@
 <h3 align="center"> 
-  Hi there 👋, I am Pedro<br><br>- 🔭 I’m currently a student at 42 Lisbon.<br>
+  Hello World 👋, I am Pedro<br><br>- 🔭 I’m currently a student at 42 Lisbon.<br>
   <br><br>
 
-  ![Hello World](https://github.com/pveiga-c/pveiga-c/blob/main/imgs/desk.gif)
+ <img src="https://github.com/pveiga-c/pveiga-c/blob/main/imgs/imagem1.gif" alt="Hello World" width="800" height="400"/>
+
+
 
 </h1>
 <div align="center" >
