@@ -38,7 +38,7 @@
 <br><br>
 <br><br>
   
-- <a href="https://github.com/pveiga-c/CPlusPlus/tree/main/CPP_09">Cpp 09 [in progress]</a> - STL.
+- <a href="https://github.com/pveiga-c/CPlusPlus/tree/main/CPP_09">Cpp 09</a> - STL.
 
 - <a href="https://github.com/pveiga-c/CPlusPlus/tree/main/CPP_08">Cpp 08</a> - Templated containers, iterators, algorithms.
   
