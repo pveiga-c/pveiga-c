@@ -126,7 +126,7 @@
 
 - <a href=""> Paper, Rock and Scissor </a> -Paper, rock and scissors game (player vs computer)
 
-- <a href=""> Treassure map</a> - Find the way to the treasure.
+- <a href=""> Treasure map</a> - Find the way to the treasure.
 
 <br><br>
 # 💻 Tech Stack:
