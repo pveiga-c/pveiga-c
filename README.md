@@ -1,23 +1,38 @@
-<h3 align="center"> 
-  Hello World 👋, I am Pedro<br><br>- 🔭 I’m currently a student at 42 Lisbon.<br>
-  <br><br>
+<br clear="both">
 
- <img src="https://github.com/pveiga-c/pveiga-c/blob/main/imgs/imagem1.gif" alt="Hello World" width="800" height="400"/>
+<h2 align="left">Hi 👋! My name is Pedro Correia</h2>
 
+###
 
+<br clear="both">
 
-</h1>
-<div align="center" >
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Java, Pyton, Data structures, advanced algorithms and systems development.<br>🎯 Goals: Improve software development skills and contribute to open-source projects.<br>🎲 Fun fact: I was a mechanical engineer before I fell in love with coding!<br><br>Feel free to explore my repositories and get in touch! 🚀</p>
+
+###
+
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5pb2QweDBjZWNjZ3dxaHk4OTlsMHd2bG9kM2twcDlicmNseWdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="600" height="400"/>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">💬 Contact me</h2>
+
+###
+<div align="left" >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedro-veiga-correia/)
 [![Email](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail)](mailto:correiapc@gmail.com)
 
 </div>
 
-
+###
 </h2>
 <div align="left" >
-  
+
+
 # 💻 My projects :
 
 <h3>
@@ -130,7 +145,7 @@
 
 <br><br>
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,cmake,bash,linux,github,git,githubactions,vim,vscode,replit,eclipse,discord,linkedin,instagram,gmail)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,docker,django,javascript,css,html,bash,cmake,nginx,wordpress,linux,github,git,githubactions,vim,vscode,replit,eclipse,discord,linkedin,instagram,gmail)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
