@@ -5,7 +5,9 @@
 <br clear="both">
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Java, Pyton, Data structures, advanced algorithms and systems development.<br>🎯 Goals: Improve software development skills and contribute to open-source projects.<br>🎲 Fun fact: I was a mechanical engineer before I fell in love with coding!<br><br>Feel free to explore my repositories and get in touch! 🚀</p>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5pb2QweDBjZWNjZ3dxaHk4OTlsMHd2bG9kM2twcDlicmNseWdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="600" height="400"/>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5pb2QweDBjZWNjZ3dxaHk4OTlsMHd2bG9kM2twcDlicmNseWdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="600" height="400"/>
+</p>
 
 # 📫 How to reach me: 
 <div>
@@ -24,10 +26,15 @@
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pveiga-c&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pveiga-c&theme=monokai&hide_border=true" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="500"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=pveiga-c&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💻 My projects
@@ -48,29 +55,6 @@
 | [Get_next_line](https://github.com/pveiga-c/get_next_line_42) | C programming \| File I/O \| Memory management \| Static variables \| Buffer handling \| Function implementation \| Norm compliance 
 | [Ft_printf](https://github.com/pveiga-c/ft_printf_42) | C programming \| Variadic functions \| Memory management \| Makefile usage \| Norm compliance \| Error handling 
 | [Libft](https://github.com/pveiga-c/libft_42) | C programming \| Algorithm implementation \| string manipulation \| Memory manipulation \| Makefile usage \| Norm compliance \| Error handling
-
-
-#
-<h3>
-<img src="https://github.com/pveiga-c/pveiga-c/blob/main/imgs/python.png" 
-           alt="Python Logo"
-           width="100px" 
-           align="left"
-           style="margin-right: 10px;">
-</h3>
-<br><br>
-<br><br>
-
-- <a href="https://github.com/pveiga-c/100_days_of_code">100 days of code</a> [in progress]
-
-- <a href="https://github.com/pveiga-c/Hangman/tree/main">Hangman</a> - Gane to guess the word before the hanging man drawing is completed. 
-
-- <a href=""> Password Generator</a>
-
-- <a href=""> Paper, Rock and Scissor </a> -Paper, rock and scissors game (player vs computer)
-
-- <a href=""> Treasure map</a> - Find the way to the treasure.
-
 
 
 
