@@ -5,46 +5,67 @@
 <br clear="both">
 <p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning: Java, Pyton, Data structures, advanced algorithms and systems development.<br>🎯 Goals: Improve software development skills and contribute to open-source projects.<br>🎲 Fun fact: I was a mechanical engineer before I fell in love with coding!<br><br>Feel free to explore my repositories and get in touch! 🚀</p>
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5pb2QweDBjZWNjZ3dxaHk4OTlsMHd2bG9kM2twcDlicmNseWdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i1JHRZSXO9LZZDHqii/giphy.gif" width="600" height="400"/>
-</p>
-
 # 📫 How to reach me: 
 <div>
   <a href="https://www.linkedin.com/in/pedro-veiga-correia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn logo" />
   </a>
-  <a href="mailto: correiapc@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:correiapc@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo" />
   </a>
+</div>
  
 <br><br>
 
 # 💻 Tech Stack:
-[![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,docker,django,javascript,css,html,bash,cmake,nginx,wordpress,linux,github,git,githubactions,vim,vscode,replit,eclipse,discord,linkedin,instagram,gmail)](https://skillicons.dev)
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
+  <img src="https://skillicons.dev/icons?i=c" width="32" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="32" />
+  <img src="https://skillicons.dev/icons?i=py" width="32" />
+  <img src="https://skillicons.dev/icons?i=java" width="32" />
+  <img src="https://skillicons.dev/icons?i=docker" width="32" />
+  <img src="https://skillicons.dev/icons?i=django" width="32" />
+  <img src="https://skillicons.dev/icons?i=javascript" width="32" />
+  <img src="https://skillicons.dev/icons?i=css" width="32" />
+  <img src="https://skillicons.dev/icons?i=html" width="32" />
+  <img src="https://skillicons.dev/icons?i=bash" width="32" />
+  <img src="https://skillicons.dev/icons?i=cmake" width="32" />
+  <img src="https://skillicons.dev/icons?i=nginx" width="32" />
+  <img src="https://skillicons.dev/icons?i=wordpress" width="32" />
+  <img src="https://skillicons.dev/icons?i=linux" width="32" />
+  <img src="https://skillicons.dev/icons?i=github" width="32" />
+  <img src="https://skillicons.dev/icons?i=git" width="32" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="32" />
+  <img src="https://skillicons.dev/icons?i=vim" width="32" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="32" />
+  <img src="https://skillicons.dev/icons?i=replit" width="32" />
+  <img src="https://skillicons.dev/icons?i=eclipse" width="32" />
+  <img src="https://skillicons.dev/icons?i=discord" width="32" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="32" />
+  <img src="https://skillicons.dev/icons?i=instagram" width="32" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="32" />
+</div>
+
+
+
 
 <br><br>
 
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pveiga-c&theme=monokai&hide_border=true" width="400"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="300"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pveiga-c&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="500"/>
-</p>
-
-[![](https://visitcount.itsvg.in/api?id=pveiga-c&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💻 My projects
 
 | Project | Description |
 | --- | --- |
-| [Hangman](https://github.com/pveiga-c/Hangman) | Pyton \|  Gane to guess the word before the hanging man drawing is completed.
+| [Transcendence](https://github.com/pveiga-c/ft_transcendence) | Django \| Python \| Javascript \| Html \| Bootstrap \| Docker \| Nginx \| Scripts
+| [Hangman](https://github.com/pveiga-c/Hangman) | Python \|  Gane to guess the word before the hanging man drawing is completed.
 | [Password Generator]() | Pyton 
-| [Paper, Rock and Scissor]() | Pyton \| Paper, rock and scissors game (player vs computer)
-| [Treasure map]() | Pyton \| Find the way to the treasure.
+| [Paper, Rock and Scissor]() | Python \| Paper, rock and scissors game (player vs computer)
+| [Treasure map]() | Python \| Find the way to the treasure.
 | [Cpp Piscine](https://github.com/pveiga-c/Cpp) |  C++ programming \| Object-oriented programming
 | [cub3D](https://github.com/pfviegas/cub3D) |  C programming \| Algorithm implementation \| Graphic design \| Ray-casting \| MiniLibX library usage \| Mathematics in game development
 | [Minishell](https://github.com/pveiga-c/minishell_42) | C programming \| processes \| file descriptors \| command execution \| input/output redirection \| signal handling \| built-in commands \| memory management \| debugging \| adherence to coding standards \| collaboration with version control. 
