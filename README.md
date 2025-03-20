@@ -14,8 +14,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail logo" />
   </a>
 </div>
- 
-<br><br>
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
